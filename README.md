@@ -6,4 +6,4 @@ DevSecOps : Netflix Clone CI-CD with Monitoring | Email
    This is the NPM images
 
 
-(https://github.com/Santhoshseeralan/Netflix-DevSecOps-Project/assets/143958411/00a6af21-32b9-461c-9b52-120670e95a80)
+![Amazon Clone - Google Chrome 05-02-2024 21_06_14](https://github.com/Santhoshseeralan/Netflix-DevSecOps-Project/assets/143958411/5051e5bd-e5b6-4c18-aab4-d6ac6720592c)
